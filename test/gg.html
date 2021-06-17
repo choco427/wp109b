@@ -102,7 +102,6 @@
     canvas.addEventListener('mousedown', function(){
         var x = event.pageX - canvas.getBoundingClientRect().left;
         var y = event.pageY - canvas.getBoundingClientRect().top;
-        // 查找被单击的气泡
         for (var i=bubbles.length-1; i>=0; i--)
         {
             var bubble = bubbles[i];
