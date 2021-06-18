@@ -4,3 +4,7 @@
 Bubbles物件類定義6個屬性：表示氣泡圓心的坐標（x,y）、氣泡的半徑radius、上升時垂直方向的位移改變數ySpeed、氣泡上升加速度gravity和氣泡顏色color
 
 miniBubbles物件類定義8個屬性：表示小氣泡圓心的坐標（x,y）、小氣泡半徑radius、散開時水平和垂直方向的位移改變數xSpeed和ySpeed、小氣泡的填充color、小氣泡的減速度gravity、小氣泡的存活時間timeToLive
+
+https://www.cnblogs.com/cs-whut/
+
+方法大都在此網站裡找的
